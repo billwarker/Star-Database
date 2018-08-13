@@ -1,0 +1,5 @@
+mws
+openpyxl
+selenium
+bs4
+sqlalchemy
